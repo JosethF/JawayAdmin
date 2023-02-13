@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JawayAdmin</string>
+    <string name="titleLogin">USER LOGIN</string>
+    <string name="subtitleLogin">WELCOME</string>
+    <string name="usr">Username</string>
+    <string name="pwd">Password</string>
+    <string name="btnLog">LOGIN</string>
+    <string name="linkLog">Create Account? Click here</string>
+</resources>
