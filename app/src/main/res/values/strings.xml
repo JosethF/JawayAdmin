@@ -6,4 +6,9 @@
     <string name="pwd">Password</string>
     <string name="btnLog">LOGIN</string>
     <string name="linkLog">Create Account? Click here</string>
+    <string name="btnDrop">DROP</string>
+    <string name="btnSave">SAVE</string>
+    <string name="btnNewMovies">NEW MOVIES</string>
+    <string name="btnMyMovies">MY MOVIES</string>
+    <string name="descriptionFilm">Poster</string>
 </resources>

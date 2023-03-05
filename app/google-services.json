@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "82870220926-avnelbprbs0bbe0u0o7s44fj1ddj02am.apps.googleusercontent.com",
+          "client_id": "82870220926-3hhmc3v57gnn9a66cl3asp4f3op8nruq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jawayadmin",
+            "certificate_hash": "6b8edda559e9bb953551a9e936780b0dd8047237"
+          }
+        },
+        {
+          "client_id": "82870220926-s49nh4p5di4epiad4gr7310agijrji8a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],

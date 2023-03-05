@@ -14,7 +14,7 @@
         android:layout_marginTop="104dp"
         android:gravity="center_horizontal"
         android:text="@string/titleLogin"
-        android:textColor="#6138AA"
+        android:textColor="@color/orange2"
         android:textSize="30sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -27,7 +27,7 @@
         android:layout_marginStart="172dp"
         android:layout_marginTop="4dp"
         android:text="@string/subtitleLogin"
-        android:textColor="#6138AA"
+        android:textColor="@color/orange1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
@@ -45,7 +45,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName4"
+        android:id="@+id/password"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
@@ -64,15 +64,17 @@
         android:layout_marginStart="148dp"
         android:layout_marginTop="48dp"
         android:text="@string/btnLog"
+        android:backgroundTint="@color/brown1"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName4" />
+        app:layout_constraintTop_toBottomOf="@+id/password" />
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/link"
         android:layout_width="181dp"
         android:layout_height="27dp"
         android:layout_marginStart="112dp"
         android:layout_marginTop="56dp"
+        android:textColor="@color/orange2"
         android:text="@string/linkLog"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button" />
